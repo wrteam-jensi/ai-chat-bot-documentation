@@ -6,12 +6,12 @@ const config = {
   title: "ai chat-bot Documentation",
   tagline: "Documentation for ai chat-bot",
   favicon: "img/favicon.ico",
-  url: 'https://wrteam-in.github.io',
-  baseUrl: '/ai-chat-bot-Doc',
+  url: 'https://wrteam-jensi.github.io',
+  baseUrl: '/ai-chat-bot-documentation',
   onBrokenLinks: "warn",
   onBrokenMarkdownLinks: "warn",
-  organizationName: 'WRTeam-in', // Usually your GitHub org/user name.
-  projectName: 'ai-chat-bot-Doc', // Usually your repo name.
+  organizationName: 'wrteam-jensi', // Updated to match your actual GitHub org
+  projectName: 'ai-chat-bot-documentation', // Updated to match your actual repo name
 
   i18n: {
     defaultLocale: "en",
