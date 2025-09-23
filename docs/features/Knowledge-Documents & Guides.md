@@ -1,3 +1,6 @@
+---
+sidebar_position: 5
+---
 # Knowledge Hub - Document Management System
 
 The Knowledge Hub is a comprehensive document management system that allows users to upload, organize, and manage various types of documents for their chatbots. This feature enables you to create a knowledge base that can be used to train and enhance your chatbot's responses.

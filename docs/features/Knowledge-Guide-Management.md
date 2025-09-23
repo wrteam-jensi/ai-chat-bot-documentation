@@ -1,3 +1,6 @@
+---
+sidebar_position: 4
+---
 # Knowledge Guide Management System
 
 The Knowledge Guide is a comprehensive article management system that allows users to create, organize, and manage knowledge articles for their chatbots. This feature enables you to build a structured knowledge base with rich content that enhances your chatbot's ability to provide accurate and helpful responses.
