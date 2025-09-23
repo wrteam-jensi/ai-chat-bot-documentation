@@ -72,28 +72,15 @@ const config = {
             label: "Website",
             position: "left",
           },
-          {
-            type: "docSidebar",
-            sidebarId: "appSidebar",
-            position: "left",
-            label: "App",
-          },
+       
           {
             type: "docSidebar",
             sidebarId: "featuresSidebar",
             position: "left",
             label: "Features",
           },
-          {
-            to: "/docs/changelog",
-            label: "Changelog",
-            position: "left",
-          },
-          {
-            to: "/docs/support",
-            label: "Community Support",
-            position: "left",
-          },
+         
+        
           {
             to: "/docs/faqs",
             label: "FAQs",

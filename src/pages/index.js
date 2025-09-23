@@ -144,7 +144,7 @@ function HomepageFeatures() {
       icon: <span className={clsx(styles.cardIcon, styles.cardIconYellow)}>✨</span>,
       title: 'Features',
       desc: 'Explore all features available for different user roles in eDemand.',
-      link: '/docs/features/elegant-home-page',
+      link: '/docs/features/ai-chat-bot-features',
       button: 'Explore Features',
     },
   ];
