@@ -267,7 +267,7 @@ function HomepageHeader() {
       <div className={styles.aiFloatingElements}></div>
 
       <div className={styles.heroContent}>
-        <img src="" alt="AI Chat-bot Logo" className={styles.heroLogo} />
+       
         <h1 className={styles.heroTitle}>{siteConfig.title}</h1>
         <p className={styles.heroSubtitle}>
           Intelligent documentation for next-generation AI chat-bot solutions.
