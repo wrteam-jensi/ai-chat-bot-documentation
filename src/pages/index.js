@@ -264,8 +264,8 @@ function HomepageHeader() {
   return (
     <header ref={heroRef} className={styles.heroBanner}>
       {/* Add AI floating elements */}
-      <div className={styles.aiFloatingElements}></div>
-
+      <div className={styles.aiFloatingElements}></div>  
+ 
       <div className={styles.heroContent}>
        
         <h1 className={styles.heroTitle}>{siteConfig.title}</h1>
