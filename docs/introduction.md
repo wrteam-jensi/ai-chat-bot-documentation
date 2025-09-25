@@ -3,13 +3,13 @@ id: introduction
 sidebar_position: 1
 ---
 
-# Welcome to eDemand AI Chat Bot
+# Welcome to  AI Chat Bot
 
-Welcome to eDemand – your comprehensive AI-powered service platform that combines intelligent chat capabilities with robust service management. This documentation will help you set up, customize, and launch your AI chat bot platform, whether you're working with the mobile app, web interface, or admin panel.
+Welcome to AI Chat Bot – your comprehensive AI-powered service platform that combines intelligent chat capabilities with robust service management. This documentation will help you set up, customize, and launch your AI chat bot platform, whether you're working with the mobile app, web interface, or admin panel.
 
 ## About This Platform
 
-eDemand is an all-in-one solution that provides:
+AI Chat Bot is an all-in-one solution that provides:
 
 - **🤖 AI Chat Bot**: Intelligent conversation management with knowledge base integration
 - **📱 Mobile App**: Native mobile experience for users and service providers  

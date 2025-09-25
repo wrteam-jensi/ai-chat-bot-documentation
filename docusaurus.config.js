@@ -57,8 +57,8 @@ const config = {
         // title: "eDemand",
         logo: {
           alt: "ai chat-bot Logo",
-          src: "img/ai-chat-bot.svg",
-          srcDark: "img/ai-chat-bot-white.png",
+          src: "img/ai-chat-bot-logo/Logo.svg",
+          srcDark: "img/ai-chat-bot-logo/Logo.svg",
         },
         items: [
           {
